@@ -69,5 +69,3 @@ We can visit http://127.0.0.1:9000/docs in our browser to see the interactive AP
 
 The server will start at <http://localhost:9000/docs>.
 
-
-Please check my write-up for further details <https://dassum.medium.com/building-rest-apis-using-fastapi-sqlalchemy-uvicorn-8a163ccf3aa1>
